@@ -1,2 +1,2 @@
 What is a remote repository?
-A remote repository is a copy of your Git repository hosted on a server, typically on a platform like GitHub, GitLab, Bitbucket, or a remote server. It serves as a centralized location where one can store, access, and share code.
+A remote repository is a copy of your Git repository hosted on a server, typically on a platform like GitHub, GitLab, Bitbucket, or a remote server. It serves as a centralized location where one can store, access, and share code..
